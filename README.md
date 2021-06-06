@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+On my page you could find interesting repos about:
+ - Reinforcement learning with JavaScript: https://github.com/polyzer/rllib.js
+ - Computational methods: https://github.com/polyzer/numerical_methods
+ - Quantum computation simulator: https://github.com/polyzer/qbyq
