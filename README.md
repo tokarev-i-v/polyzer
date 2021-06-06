@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 On my page you could find interesting repos about:
- - Reinforcement learning with JavaScript: https://github.com/polyzer/rllib.js
- - Computational methods: https://github.com/polyzer/numerical_methods
- - Quantum computation simulator: https://github.com/polyzer/qbyq
+
+ ⚡ Reinforcement learning with JavaScript (Three.js and another graphical libraries and Tensorflow.js as backend): 
+    -> https://github.com/polyzer/rllib.js
+   
+   ![rllib.js](https://github.com/polyzer/rllib.js/blob/master/readme/output.gif) 
+  
+ ⚡ Computational methods: https://github.com/polyzer/numerical_methods
+
+ ⚡ Quantum computation simulator: https://github.com/polyzer/qbyq
 
 Some really fun facts about me:
  - One of the 1st place winners of IBM Quantum Challenge 2021
