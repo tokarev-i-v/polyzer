@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 On my page you could find interesting repos about:
 
- ⚡ Reinforcement learning with JavaScript (Three.js and another graphical libraries and Tensorflow.js as backend): 
+ ⚡ Reinforcement learning with JavaScript: 
     -> https://github.com/polyzer/rllib.js
    
    ![rllib.js](https://github.com/polyzer/rllib.js/blob/master/readme/output.gif) 
