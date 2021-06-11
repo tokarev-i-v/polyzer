@@ -28,4 +28,8 @@ On my page you could find interesting repos about:
 Some really fun facts about me:
  - One of the 1st place winners of IBM Quantum Challenge 2021
 
+https://www.credly.com/badges/a308ecfd-dfeb-4dd9-a95e-00ae1bbb16b2/public_url
+
+
 ![CodeWars](https://www.codewars.com/users/polyzer/badges/large)
+
