@@ -25,7 +25,7 @@ On my page you could find interesting repos about:
 
  ⚡ Quantum computation simulator: https://github.com/polyzer/qbyq
 
-Some really fun facts about me:
+Some badges:
  - One of the 1st place winners of IBM Quantum Challenge 2021
 
 https://www.credly.com/badges/a308ecfd-dfeb-4dd9-a95e-00ae1bbb16b2/public_url
